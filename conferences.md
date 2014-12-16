@@ -8,3 +8,4 @@ Below is a table of NZ Tech Conferneces happening in New Zealand soon. To add yo
 | Name | URL | Time | Location | Price |
 |------|-----|------|----------|-------|
 |Rails Camp|[http://camp.ruby.org.nz/](http://camp.ruby.org.nz/)|Jan 30th - Feb 2nd 2015|Auckland| $249 (Students $149)|
+|Codemania|[http://codemania.co.nz](http://codemania.co.nz)|Apr 24th 2014|Auckland| $399|
