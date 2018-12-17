@@ -7,10 +7,10 @@ Below is a table of NZ Tech Conferneces happening in New Zealand soon. To add yo
 
 | Name | URL | Time | Location | Price |
 |------|-----|------|----------|-------|
-|LinuxConf|[http://linux.conf.au/](http://linux.conf.au/)|Jan 21 - Jan 26 2015|Christchurch|$199-$1099|
-|Webstock|[http://www.webstock.org.nz/15/](http://www.webstock.org.nz/)|2020?|Wellington|TBA|
+|LinuxConf|[http://linux.conf.au/](http://linux.conf.au/)|Jan 21 - Jan 26 2019|Christchurch|$199-$1099|
+|Webstock|[http://www.webstock.org.nz](http://www.webstock.org.nz/)|TBA|Wellington|TBA|
 |Codemania|[http://codemania.co.nz](http://codemania.co.nz)|May 15 2019|Auckland| $450-$1200|
-|ITx|[http://www.itx.org.nz/](http://www.itx.org.nz/)|2020|TBA|TBA|
+|ITx|[http://www.itx.org.nz/](http://www.itx.org.nz/)|TBA|TBA|TBA|
 |Tech Week|[https://techweek.co.nz](https://techweek.co.nz)|May 20 - May 26 2019|Auckland|TBA|
 |UXNZ|[http://www.uxnewzealand.com](http://www.uxnewzealand.com)|October 2019|Wellington|TBA|
 |Digital Workplace Conference|[https://dwcnz.co.nz](https://dwcnz.co.nz)|April 30th 2019|Auckland|$1150|
